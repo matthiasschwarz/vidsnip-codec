@@ -36,7 +36,7 @@
   "bugs": "https://github.com/matthiasschwarz/vidsnip-codec/issues",
   "module": "dist/vidsnip-codec.esm.js",
   "dependencies": {
-    "bitset": "github:matthiasschwarz/bitset",
+    "bitset": "https://github.com/matthiasschwarz/bitset",
     "js-base64": "^3.5.2",
     "z85-codec": "^0.1.0"
   },
